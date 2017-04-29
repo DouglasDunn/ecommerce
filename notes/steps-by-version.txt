@@ -1,0 +1,2 @@
+V1
+(x) Create a mockup of the home page with bootstrap.
