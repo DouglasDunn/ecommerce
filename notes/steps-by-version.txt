@@ -2,6 +2,10 @@ V1
 (x) Create a mockup of the home page with bootstrap.
 
 V2
-() Create a database: ecommerce and add three tables: products, brand and category.
-() Break up the html into reusable files
-() 
+(x) Create a database: ecommerce and add three tables: products, brand and category.
+(x) Break up the html into reusable files
+(x) Use the categories table to make the navbar dynamic.
+(x) Use the products table to make the featured products section and details modal dynamic.
+
+V3
+()
