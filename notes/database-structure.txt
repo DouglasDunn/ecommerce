@@ -1,0 +1,22 @@
+database: ecommerce
+
+table: products
+id: int, primary, a_i
+title: varchar, 255
+price: decimal, 10, 2
+list_price: decimal, 10, 2
+brand: int
+categories: varchar, 255
+image: varchar, 255
+description: text
+featured: tinyint, as defined: 0
+sizes: text
+
+table: brand
+id: int, primary, a_i
+brand: varchar, 255
+
+table: categories
+id: int, primary, a_i
+category: varchar, 255
+parent: int, as defined: 0
