@@ -5,4 +5,5 @@ if (mysqli_connect_errno()) {
     die();
 }
 
-define('BASEURL', '/php/ecommerce/');
+require_once $_SERVER['DOCUMENT_ROOT'] . '/php/ecommerce/config.php';
+require_once BASEURL . 'helpers/helpers.php';
