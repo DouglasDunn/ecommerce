@@ -12,4 +12,4 @@ V3
 (x) Create a brands page for the admin for creating, reading, updating, and deleting brands.
 
 V4
-() Create a categories page for the admin for creating, reading, updating, and deleting categories.
+(x) Create a categories page for the admin for creating, reading, updating, and deleting categories.
