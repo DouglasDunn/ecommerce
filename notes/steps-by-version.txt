@@ -8,4 +8,8 @@ V2
 (x) Use the products table to make the featured products section and details modal dynamic.
 
 V3
-()
+(x) Create a home page for the admin.
+(x) Create a brands page for the admin for creating, reading, updating, and deleting brands.
+
+V4
+() Create a categories page for the admin for creating, reading, updating, and deleting categories.
